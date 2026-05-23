@@ -35,6 +35,8 @@ Time-series trends in the line chart should inform inventory and staffing plans 
 ## Preview
 https://github.com/emmanuelayuba246-sudo/Super-Store-Sales-Report/commit/06cb55ded4b0c4a7c808af3969e62894e462f8b4
 
+> click the image above to see a preview of the final dashboard.
+
 ## Tool Used
 - Microsoft Excel
 - Power BI
