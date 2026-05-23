@@ -33,7 +33,7 @@ Regions or states with high sales volume but low profit margins should be audite
 Time-series trends in the line chart should inform inventory and staffing plans for peak periods, ensuring that sales volume increases in those periods are accompanied by disciplined margin management.
 
 ## Preview
-https://github.com/emmanuelayuba246-sudo/Super-Store-Sales-Report/commit/06cb55ded4b0c4a7c808af3969e62894e462f8b4
+https://github.com/emmanuelayuba246-sudo/Super-Store-Sales-Report/blob/main/Picture1.png
 
 > click the image above to see a preview of the final dashboard.
 
