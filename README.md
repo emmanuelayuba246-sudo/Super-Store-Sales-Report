@@ -14,8 +14,8 @@ This report presents a structured analysis of the Superstore Sales Power BI dash
 - Are there geographic clusters of underperformance?
 
 ## Key Performance Indicators
-Total Sales — the sum of all revenue across the entire dataset is $2.30M.
-Total Profit — the sum of net profit across all orders is $286.40k.
+- Total Sales — the sum of all revenue across the entire dataset is $2.30M
+- Total Profit — the sum of net profit across all orders is $286.40k
 
 # What I Learned
 Based on the analytical framework embedded in this dashboard, the following areas warrant priority review
